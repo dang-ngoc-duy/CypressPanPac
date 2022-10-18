@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "name": "test-github-login",
+  "version": "1.0.0",
+  "description": "cypress test",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^10.10.0",
+    "dayjs": "^1.11.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "author": "justin dang",
+  "license": "ISC"
+}

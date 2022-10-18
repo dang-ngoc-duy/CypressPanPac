@@ -1,0 +1,27 @@
+{
+  "baseURL": "https://dev.d39r9y07lz9f8h.amplifyapp.com",
+  "data": {
+    "company": {
+      "accounts": [
+        {
+          "email": "",
+          "password": "",
+          "roc_uen": ""
+        }
+      ]
+    },
+    "person": {
+      "accounts": [
+        {
+          "email": "",
+          "password": ""
+        }
+      ]
+    },
+    "card_detail": {
+      "cardNumber": "4242424242424242",
+      "cardExpiry": "24 / 24",
+      "cardCvc": "424"
+    }
+  }
+}
